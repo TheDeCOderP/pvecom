@@ -1,0 +1,184 @@
+2023-04-08T09:43:05+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:61
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 61
+
+2023-04-08T10:07:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:61
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 61
+
+2023-04-08T10:07:41+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:61
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 61
+
+2023-04-08T10:10:05+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:61
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 61
+
+2023-04-08T10:11:44+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:61
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 61
+
+2023-04-08T10:45:43+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:10
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 10
+
+2023-04-08T10:53:10+00:00 CRITICAL Uncaught Error: Call to undefined function woostify_get_option() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:62
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woostify_cart_icon_with_count_shortcode('', '', 'woostify_cart_i...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woosti...', 'do_shortcode_ta...', '[woostify_cart_...')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woostify_cart_...')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdi in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 62
+
+2023-04-08T10:53:21+00:00 CRITICAL Uncaught Error: Call to undefined function woostify_get_option() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:62
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woostify_cart_icon_with_count_shortcode('', '', 'woostify_cart_i...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woosti...', 'do_shortcode_ta...', '[woostify_cart_...')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woostify_cart_...')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdi in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 62
+
+2023-04-08T10:59:43+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php:10
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet.com in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/woostify/functions.php on line 10
+
+2023-04-08T16:02:57+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:227
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 227
+
+2023-04-08T16:03:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:227
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 227
+
+2023-04-08T16:04:13+00:00 CRITICAL syntax error, unexpected end of file in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 233
+
+2023-04-08T16:04:13+00:00 CRITICAL syntax error, unexpected end of file in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 233
+
+2023-04-08T16:04:35+00:00 CRITICAL syntax error, unexpected end of file in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 233
+
+2023-04-08T16:04:38+00:00 CRITICAL syntax error, unexpected end of file in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 233
+
+2023-04-08T16:05:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:227
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 227
+
+2023-04-08T16:05:28+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:227
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 227
+
+2023-04-08T16:07:45+00:00 CRITICAL syntax error, unexpected '<' in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 216
+
+2023-04-08T16:07:45+00:00 CRITICAL syntax error, unexpected '<' in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 216
+
+2023-04-08T16:08:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:222
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-settings.php(591): include()
+#1 /home/pcdigita/public_html/greentoysplanet.com/wp-config.php(98): require_once('/home/pcdigita/...')
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-load.php(50): require_once('/home/pcdigita/...')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-admin/admin.php(34): require_once('/home/pcdigita/...')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-admin/theme-editor.php(10): require_once('/home/pcdigita/...')
+#5 {main}
+  thrown in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 222
+
+2023-04-08T16:09:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:222
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-settings.php(591): include()
+#1 /home/pcdigita/public_html/greentoysplanet.com/wp-config.php(98): require_once('/home/pcdigita/...')
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-load.php(50): require_once('/home/pcdigita/...')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-admin/admin.php(34): require_once('/home/pcdigita/...')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-admin/theme-editor.php(10): require_once('/home/pcdigita/...')
+#5 {main}
+  thrown in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 222
+
+2023-04-08T16:10:53+00:00 CRITICAL syntax error, unexpected end of file in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 238
+
+2023-04-08T16:22:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:225
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 225
+
+2023-04-08T16:23:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:225
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): woo_cart_shortcode('', '', 'woo_cart')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(woo_ca...', 'do_shortcode_ta...', '[woo_cart]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[woo_cart]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoyspl in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 225
+

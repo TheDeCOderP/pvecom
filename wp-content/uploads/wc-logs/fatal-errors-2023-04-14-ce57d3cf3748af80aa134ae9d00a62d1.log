@@ -1,0 +1,18 @@
+2023-04-14T13:22:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:23:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:23:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:23:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:26:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:26:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:26:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:32:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+
+2023-04-14T13:32:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /home/poundvegco/public_html/wp-includes/class-wpdb.php on line 2431
+

@@ -1,0 +1,82 @@
+2023-04-12T11:16:30+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:240
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): wpc_wishlist_shortcode('', '', 'wpc_wishlist')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(wpc_wi...', 'do_shortcode_ta...', '[wpc_wishlist]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[wpc_wishlist]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet. in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 240
+
+2023-04-12T11:16:45+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:240
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): wpc_wishlist_shortcode('', '', 'wpc_wishlist')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(wpc_wi...', 'do_shortcode_ta...', '[wpc_wishlist]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[wpc_wishlist]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet. in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 240
+
+2023-04-12T11:16:55+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:240
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): wpc_wishlist_shortcode('', '', 'wpc_wishlist')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(wpc_wi...', 'do_shortcode_ta...', '[wpc_wishlist]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[wpc_wishlist]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet. in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 240
+
+2023-04-12T11:17:34+00:00 CRITICAL Uncaught Error: Call to undefined function YITH_WCWL() in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php:241
+Stack trace:
+#0 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(355): wpc_wishlist_shortcode('', '', 'wpc_wishlist')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/pcdigita/public_html/greentoysplanet.com/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(wpc_wi...', 'do_shortcode_ta...', '[wpc_wishlist]')
+#3 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[wpc_wishlist]')
+#4 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/pcdigita/public_html/greentoysplanet.com/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/pcdigita/public_html/greentoysplanet. in /home/pcdigita/public_html/greentoysplanet.com/wp-content/themes/hello-elementor/functions.php on line 241
+
+2023-04-12T12:58:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T12:59:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:01:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wp-query.php on line 3319
+
+2023-04-12T13:02:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:04:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:05:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:05:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:05:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:05:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:08:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:09:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:25:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:45:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:45:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:47:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:47:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:52:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:52:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:52:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:53:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-12T13:53:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+

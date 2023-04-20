@@ -1,0 +1,26 @@
+2023-04-13T05:25:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:25:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:25:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:26:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:26:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:27:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:38:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:38:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:40:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:49:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:49:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:50:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+
+2023-04-13T05:50:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/pcdigita/public_html/greentoysplanet.com/wp-includes/class-wpdb.php on line 2397
+

@@ -1,0 +1,431 @@
+2023-04-17T02:22:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T02:22:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T02:22:40+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T03:22:44+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T03:22:44+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T03:22:44+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T04:57:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T04:57:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T04:57:52+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T05:00:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T05:00:58+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T05:00:59+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T05:10:13+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-17T05:16:48+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Incoming webhook failed validation: {
+  "id": "evt_1MxkQlKQZUpWBzazwBkDSuHk",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1681708607,
+  "data": {
+    "object": {
+      "id": "cus_NjCqj0dDAOBNV8",
+      "object": "customer",
+      "address": {
+        "city": "mandsaur",
+        "country": "IN",
+        "line1": "mandsaur",
+        "line2": "",
+        "postal_code": "458001",
+        "state": "MP"
+      },
+      "balance": 0,
+      "created": 1681708606,
+      "currency": null,
+      "default_currency": null,
+      "default_source": null,
+      "delinquent": false,
+      "description": null,
+      "discount": null,
+      "email": "admin@gmail.com",
+      "invoice_prefix": "D9ED8F10",
+      "invoice_settings": {
+        "custom_fields": null,
+        "default_payment_method": null,
+        "footer": null,
+        "rendering_options": null
+      },
+      "livemode": true,
+      "metadata": {
+        "user_id": "1",
+        "website": "https://poundveg.co.uk",
+        "username": "admin"
+      },
+      "name": "prakash patidar",
+      "phone": "9111618816",
+      "preferred_locales": [
+
+      ],
+      "shipping": null,
+      "sources": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjCqj0dDAOBNV8/sources"
+      },
+      "subscriptions": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjCqj0dDAOBNV8/subscriptions"
+      },
+      "tax_exempt": "none",
+      "tax_ids": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjCqj0dDAOBNV8/tax_ids"
+      },
+      "test_clock": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_iT6NgBebYQ2QZL",
+    "idempotency_key": "2e1291af-78ad-4782-b1ff-ba92b35f5058"
+  },
+  "type": "customer.created"
+}
+====End Log====
+
+
+2023-04-17T05:32:22+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Incoming webhook failed validation: {
+  "id": "evt_1MxkfpKQZUpWBzazM4U8PqE6",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1681709541,
+  "data": {
+    "object": {
+      "id": "cus_NjD6VAEut4oPBW",
+      "object": "customer",
+      "address": {
+        "city": "HARROW",
+        "country": "GB",
+        "line1": "103 BRADSTOWE HOUSE",
+        "line2": "HEADSTONE ROAD",
+        "postal_code": "HA1 1EL",
+        "state": "UK"
+      },
+      "balance": 0,
+      "created": 1681709541,
+      "currency": null,
+      "default_currency": null,
+      "default_source": null,
+      "delinquent": false,
+      "description": null,
+      "discount": null,
+      "email": "pratyushlondon@gmail.com",
+      "invoice_prefix": "5CDE5874",
+      "invoice_settings": {
+        "custom_fields": null,
+        "default_payment_method": null,
+        "footer": null,
+        "rendering_options": null
+      },
+      "livemode": true,
+      "metadata": {
+        "user_id": "2",
+        "website": "https://poundveg.co.uk",
+        "username": "pratyushlondon"
+      },
+      "name": "Pratyush Kumar",
+      "phone": "+447867090363",
+      "preferred_locales": [
+
+      ],
+      "shipping": null,
+      "sources": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjD6VAEut4oPBW/sources"
+      },
+      "subscriptions": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjD6VAEut4oPBW/subscriptions"
+      },
+      "tax_exempt": "none",
+      "tax_ids": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjD6VAEut4oPBW/tax_ids"
+      },
+      "test_clock": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_Lg5MmgTluvCLof",
+    "idempotency_key": "bc92df99-32b7-456c-8b51-a746a45f47f1"
+  },
+  "type": "customer.created"
+}
+====End Log====
+
+
+2023-04-17T06:53:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T06:53:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T06:53:14+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T06:59:04+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T06:59:04+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T06:59:04+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T07:19:18+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+account
+====End Log====
+
+
+2023-04-17T07:49:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T07:49:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe live mode requires SSL.
+====End Log====
+
+
+2023-04-17T07:49:47+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Stripe Payment Request live mode requires SSL.
+====End Log====
+
+
+2023-04-17T08:19:29+00:00 DEBUG 
+====Stripe Version: 7.3.0====
+====Start Log====
+Incoming webhook failed validation: {
+  "id": "evt_1MxnHYKQZUpWBzazAqruy9Rg",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1681719568,
+  "data": {
+    "object": {
+      "id": "cus_NjFntGxPBa3U10",
+      "object": "customer",
+      "address": {
+        "city": "mandsaur",
+        "country": "IN",
+        "line1": "mandsaur",
+        "line2": "",
+        "postal_code": "458001",
+        "state": "MP"
+      },
+      "balance": 0,
+      "created": 1681719568,
+      "currency": null,
+      "default_currency": null,
+      "default_source": null,
+      "delinquent": false,
+      "description": null,
+      "discount": null,
+      "email": "admin@gmail.com",
+      "invoice_prefix": "EC6BF1F3",
+      "invoice_settings": {
+        "custom_fields": null,
+        "default_payment_method": null,
+        "footer": null,
+        "rendering_options": null
+      },
+      "livemode": true,
+      "metadata": {
+        "user_id": "1",
+        "website": "https://poundveg.co.uk",
+        "username": "admin"
+      },
+      "name": "prakash patidar",
+      "phone": "9111618816",
+      "preferred_locales": [
+
+      ],
+      "shipping": null,
+      "sources": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjFntGxPBa3U10/sources"
+      },
+      "subscriptions": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjFntGxPBa3U10/subscriptions"
+      },
+      "tax_exempt": "none",
+      "tax_ids": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_NjFntGxPBa3U10/tax_ids"
+      },
+      "test_clock": null
+    }
+  },
+  "livemode": true,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_nDeAz3C85bKZVy",
+    "idempotency_key": "666183f5-68ce-490e-9ae0-ad7286c29c2f"
+  },
+  "type": "customer.created"
+}
+====End Log====
+
+
