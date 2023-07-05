@@ -288,25 +288,3 @@ function shorten_woo_product_title( $title, $id ) {
     }
 }
 
-
-
-add_action( 'woocommerce_cart_calculate_fees', 'add_shipping_charge' );
- 
-function add_shipping_charge() {
-    global $woocommerce;
- 
-    // Set the minimum order amount for the shipping charge
-    $minimum_order_amount = 50;
- 
-    // Set the shipping charge amount
-    $shipping_charge = 5.99;
- 
-    // Get the cart total
-    $cart_total = $woocommerce->cart->cart_contents_total;
- 
-    // Check if the cart total is less than the minimum order amount
-    if ( $cart_total < $minimum_order_amount ) {
-        // Add the shipping charge
-        $woocommerce->cart->add_fee( 'Shipping Charges (On Orders Less Than £50 ) ', $shipping_charge );
-    }
-}
